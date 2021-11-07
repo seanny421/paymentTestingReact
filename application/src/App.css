@@ -7,6 +7,25 @@
   pointer-events: none;
 }
 
+ul{
+    list-style-type: none;
+}
+
+form {
+    padding: 1rem;
+    margin: 4rem;
+    background-color: grey;
+    color: white;
+    border-radius: 1rem;
+}
+
+button {
+    padding: 1rem;
+    background-color: red;
+    border-radius: 1rem;
+    color: white;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
