@@ -14,7 +14,8 @@ ul{
 form {
     padding: 1rem;
     margin: 4rem;
-    background-color: grey;
+    background-color: white;
+    outline: black solid 2px;
     color: white;
     border-radius: 1rem;
 }
